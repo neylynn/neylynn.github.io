@@ -1,7 +1,7 @@
 import {
   FaGithub,
   FaLinkedin,
-  FaFacebook,
+  FaInstagram,
   FaArrowDown,
 } from "react-icons/fa";
 import { motion } from "framer-motion";
@@ -113,7 +113,9 @@ function Hero() {
             </motion.a>
 
             <motion.a
-              href="#"
+              href="https://www.linkedin.com/in/nay-linn-68843a2a8"
+              target="_blank"
+              rel="noreferrer"
               whileHover={{
                 y: -6,
                 scale: 1.1,
@@ -125,7 +127,9 @@ function Hero() {
             </motion.a>
 
             <motion.a
-              href="#"
+              href="https://instagram.com/neylynn97"
+              target="_blank"
+              rel="noreferrer"
               whileHover={{
                 y: -6,
                 scale: 1.1,
@@ -133,7 +137,7 @@ function Hero() {
               whileTap={{ scale: 0.9 }}
               className="bg-slate-900 p-4 rounded-xl hover:bg-blue-600 transition"
             >
-              <FaFacebook size={22} />
+              <FaInstagram size={22} />
             </motion.a>
 
           </div>

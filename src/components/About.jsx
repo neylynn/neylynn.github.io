@@ -38,13 +38,13 @@ const services = [
     icon: <FaLaptopCode size={30} />,
     title: "Frontend Development",
     description:
-      "Building responsive and interactive web applications using React, Vue, Next, Bootstrap, and Tailwind CSS.",
+      "Building responsive and interactive web applications using React, Vue, Next, TypeScript, Tailwind CSS, and Vite.",
   },
   {
     icon: <FaServer size={30} />,
     title: "Backend Development",
     description:
-      "Developing secure REST APIs and business systems with Laravel, Express, WordPress, MySQL, MongoDB, and Redis.",
+      "Developing secure REST APIs and business systems with Laravel, WordPress, Express, MySQL, MongoDB, and Redis.",
   },
   {
     icon: <FaCode size={30} />,

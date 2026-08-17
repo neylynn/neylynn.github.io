@@ -1,7 +1,7 @@
 import {
   FaGithub,
   FaLinkedin,
-  FaFacebook,
+  FaInstagram,
   FaEnvelope,
 } from "react-icons/fa";
 
@@ -23,21 +23,21 @@ export const footerSocials = [
   {
     name: "GitHub",
     icon: FaGithub,
-    url: "https://github.com/yourusername",
+    url: "https://github.com/neylynn",
   },
   {
     name: "LinkedIn",
     icon: FaLinkedin,
-    url: "https://linkedin.com/in/yourusername",
+    url: "https://www.linkedin.com/in/nay-linn-68843a2a8",
   },
   {
-    name: "Facebook",
-    icon: FaFacebook,
-    url: "https://facebook.com/yourusername",
+    name: "Instagram",
+    icon: FaInstagram,
+    url: "https://instagram.com/neylynn97",
   },
   {
     name: "Email",
     icon: FaEnvelope,
-    url: "mailto:your@email.com",
+    url: "mailto:naylinnofficial@gmail.com",
   },
 ];

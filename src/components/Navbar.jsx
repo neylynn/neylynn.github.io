@@ -51,7 +51,9 @@ function Navbar() {
           </a>
 
           <a
-            href="/resume.pdf"
+            href={`${import.meta.env.BASE_URL}resume.pdf`}
+            target="_blank"
+            rel="noopener noreferrer"
             className="flex items-center gap-2 bg-blue-600 hover:bg-blue-700 px-4 py-2 rounded-lg transition"
           >
             <FaDownload />
