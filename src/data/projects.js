@@ -147,20 +147,4 @@ export const projects = [
     demo: "https://apkpure.com/baydinywar/com.securelinkmm.horoscope",
     featured: false,
   },
-
-  {
-    id: 11,
-    title: "React Portfolio",
-    image: portfolioImage,
-    description:
-      "Modern portfolio website built with React, Tailwind CSS, and Vite.",
-    technologies: [
-      "React",
-      "Tailwind",
-      "Vite",
-    ],
-    github: "https://github.com/neylynn/portfolio",
-    demo: "https://yourname.github.io",
-    featured: false,
-  },
 ];
