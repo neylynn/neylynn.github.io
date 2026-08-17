@@ -4,9 +4,8 @@ import {
   FaMapMarkerAlt,
   FaGithub,
   FaLinkedin,
-  FaFacebook,
+  FaInstagram,
 } from "react-icons/fa";
-import { SiX } from "react-icons/si";
 
 export const contactInfo = [
   {
@@ -44,13 +43,8 @@ export const socialLinks = [
     url: "https://www.linkedin.com/in/nay-linn-68843a2a8",
   },
   {
-    name: "Facebook",
-    icon: FaFacebook,
-    url: "https://facebook.com/yourusername",
-  },
-  {
-    name: "X",
-    icon: SiX,
-    url: "https://x.com/neylynn97",
-  },
+    name: "Instagram",
+    icon: FaInstagram,
+    url: "https://instagram.com/neylynn97",
+  }
 ];
