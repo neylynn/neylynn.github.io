@@ -77,7 +77,7 @@ export const projects = [
     title: "Myanmar Accountancy Council",
     image: macImage,
     description:
-      "Contributed to the development of a centralized platform for accounting examinations and professional registrations, including CPA and related programs. Collaborated with the development team across most modules, including applications, exam management, registrations, results, announcements, and administrative features.",
+      "Contributed to the development of a centralized platform for accounting examinations and professional registrations, including CPA and related programs. Collaborated with the development team across most modules, including applications, exam management, registrations, results, announcements, and administrative features. Integrated Myanmar payment gateways, including KBZ Pay and MPU, to support online registration payments.",
     technologies: [
       "Laravel",
       "MySQL"
