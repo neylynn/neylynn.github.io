@@ -6,6 +6,7 @@ import {
   FaDocker,
   FaGitAlt,
   FaAws,
+  FaBootstrap
 } from "react-icons/fa";
 
 import {
@@ -15,11 +16,10 @@ import {
   SiMysql,
   SiRedis,
   SiFirebase,
-  SiVite,
-  SiFigma,
   SiGithub,
   SiMongodb,
-  SiExpress
+  SiExpress,
+  SiPostman
 } from "react-icons/si";
 
 export const skillCategories = [
@@ -32,12 +32,12 @@ export const skillCategories = [
         color: "text-sky-400",
       },
       {
-        name: "Vue",
+        name: "Vue.js",
         icon: FaVuejs,
         color: "text-green-500",
       },
       {
-        name: "Next",
+        name: "Next.js",
         icon: SiNextdotjs,
         color: "text-white",
       },
@@ -47,14 +47,14 @@ export const skillCategories = [
         color: "text-blue-500",
       },
       {
+        name: "Bootstrap",
+        icon: FaBootstrap,
+        color: "text-violet-400",
+      },
+      {
         name: "Tailwind CSS",
         icon: SiTailwindcss,
         color: "text-cyan-400",
-      },
-      {
-        name: "Vite",
-        icon: SiVite,
-        color: "text-violet-400",
       },
     ],
   },
@@ -68,14 +68,14 @@ export const skillCategories = [
         color: "text-red-500",
       },
       {
+        name: "Express.js",
+        icon: SiExpress,
+        color: "text-green-500",
+      },
+      {
         name: "WordPress",
         icon: FaWordpress,
         color: "text-indigo-400",
-      },
-      {
-        name: "Express",
-        icon: SiExpress,
-        color: "text-green-500",
       },
       {
         name: "MySQL",
@@ -130,9 +130,9 @@ export const skillCategories = [
         color: "text-white",
       },
       {
-        name: "Figma",
-        icon: SiFigma,
-        color: "text-pink-500",
+        name: "Postman",
+        icon: SiPostman,
+        color: "text-orange-500",
       },
     ],
   },

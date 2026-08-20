@@ -1,8 +1,7 @@
 import {
   FaCode,
   FaLaptopCode,
-  FaServer,
-  FaMobileAlt,
+  FaServer
 } from "react-icons/fa";
 import { motion } from "framer-motion";
 import {
@@ -11,7 +10,7 @@ import {
   fadeRight,
   zoomIn,
   staggerContainer,
-  defaultTransition,
+  defaultTransition
 } from "../animations";
 
 const stats = [
@@ -38,13 +37,13 @@ const services = [
     icon: <FaLaptopCode size={30} />,
     title: "Frontend Development",
     description:
-      "Building responsive and interactive web applications using React, Vue.js, Next.js, TypeScript, Tailwind CSS, and Vite.",
+      "Building responsive and interactive web applications using React, Vue.js, Next.js, TypeScript, Bootstrap, and Tailwind CSS.",
   },
   {
     icon: <FaServer size={30} />,
     title: "Backend Development",
     description:
-      "Developing secure REST APIs and business systems with Laravel, WordPress, Express.js, MySQL, MongoDB, and Redis.",
+      "Developing secure REST APIs and business systems with Laravel, Express.js, WordPress, MySQL, MongoDB, and Redis.",
   },
   {
     icon: <FaCode size={30} />,

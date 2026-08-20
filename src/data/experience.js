@@ -8,14 +8,13 @@ export const experiences = [
       "Develop and maintain full-stack platforms, including POS, Loyalty, Money Changer, and CMS-based e-commerce systems. Troubleshoot and resolve complex production issues, and contribute to new platform development from system architecture and API design through deployment. Improve application performance, scalability, reliability, and security across frontend, backend, and infrastructure layers. Design, deploy, and manage WordPress-based SaaS applications on VPS infrastructure, supporting the full development-to-production lifecycle.",
     technologies: [
       "Laravel",
-      "Vue.js",
       "React",
+      "Vue.js",
       "Next.js",
-      "Tailwind",
       "WordPress",
-      "WooCommerce",
       "MySQL",
-      "VPS"
+      "Bootstrap",
+      "Tailwind CSS"
     ],
   },
   {
@@ -27,13 +26,10 @@ export const experiences = [
       "Tested and deployed customized chatbot solutions for e-commerce platforms, ensuring reliable integration and functionality. Developed Node.js/Express APIs to track chatbot user actions across multiple websites. Deployed and managed services on Heroku, supporting application availability and maintenance. Used Docker for containerized development and environment consistency.",
     technologies: [
       "Express.js",
-      "Vue.js",
       "Nuxt.js",
-      "Tailwind",
       "MongoDB",
-      "Docker",
-      "Heroku",
-      "AWS"
+      "Tailwind CSS",
+      "Docker"
     ],
   },
   {
@@ -44,10 +40,10 @@ export const experiences = [
     description:
       "Enhanced “MySkinRecipes,” a CMS-based e-commerce platform, by improving order processing workflows and implementing new APIs. Investigated and resolved complex production issues across shopping cart and checkout workflows, addressing data inconsistencies and transaction state errors. Upgraded and maintained an existing headless browser-based web-scraping system to support its latest version and ensure continued reliability.",
     technologies: [
-      "Laravel",
-      "Symfony",
       "PrestaShop",
+      "Laravel",
       "MySQL",
+      "Bootstrap"
     ],
   },
   {
@@ -59,10 +55,10 @@ export const experiences = [
       "Maintained existing and integrated new payment gateway solutions across major Myanmar payment providers, including KBZPay, AYA Pay, CB Pay, UAB Pay, WavePay, Citizen Pay, MPU, and international platforms such as CodaPay. Handled QR-based payment processing and dynamic payment link workflows, ensuring reliable customer transactions. Maintained and troubleshot Viber Business Messaging integrations, resolving gateway and messaging issues and managing cron jobs for automated broadcasting and monthly/yearly subscription management.",
     technologies: [
       "Laravel",
+      "Express.js",
       "Vue.js",
       "MySQL",
-      "DigitalOcean",
-      "AWS"
+      "Bootstrap"
     ],
   },
   {
@@ -75,7 +71,7 @@ export const experiences = [
     technologies: [
       "Laravel",
       "MySQL",
-      "Microsoft Azure"
+      "Bootstrap"
     ],
   },
   {
@@ -88,8 +84,8 @@ export const experiences = [
     technologies: [
       "Laravel",
       "MySQL",
-      "Docker",
-      "DigitalOcean"
+      "Bootstrap",
+      "Docker"
     ],
   },
 ];
