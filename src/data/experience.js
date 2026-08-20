@@ -1,7 +1,7 @@
 export const experiences = [
   {
     company: "App.com.mm",
-    position: "Laravel Developer",
+    position: "Senior Laravel Developer",
     duration: "November 2025 - Present",
     location: "Yangon, Myanmar - Remote",
     description: 
