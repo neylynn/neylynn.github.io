@@ -35,7 +35,7 @@ function Footer() {
             </h2>
 
             <p className="text-gray-400 mt-5 leading-8">
-              Full Stack Engineer specializing in Laravel, Express, React, Vue, Next and modern web technologies.
+              Full Stack Engineer specializing in Laravel, Express.js, React, Vue.js, Next.js and modern web technologies.
               I enjoy building scalable software with clean, maintainable code.
             </p>
           </motion.div>
