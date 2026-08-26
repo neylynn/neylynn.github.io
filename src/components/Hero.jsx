@@ -63,9 +63,7 @@ function Hero() {
           </div>
 
           <p className="mt-8 max-w-xl text-gray-400 leading-8">
-            Passionate Software Engineer with 6+ years of experience building scalable web
-            applications and RESTful APIs across international environments including Yangon, 
-            Bangkok, and Tokyo. 
+            Software Engineer with 6+ years of experience building full-stack applications and RESTful APIs across Yangon, Bangkok, and Tokyo.
           </p>
 
           {/* Buttons */}

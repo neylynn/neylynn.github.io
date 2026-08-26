@@ -77,14 +77,11 @@ function About() {
           </p>
 
           <h2 className="text-4xl md:text-5xl font-bold mt-3">
-            Passionate Software Engineer
+            Software Engineer
           </h2>
 
           <p className="mt-6 max-w-3xl mx-auto text-gray-400 leading-8">
-            I focus strongly on application performance and security. In my previous roles, 
-            I optimized server request handling, database query execution time, and frontend 
-            loading performance across multiple production platforms. I also emphasize system 
-            architecture, database design, and modern programming paradigms.
+            Experienced in full-stack development, system architecture, database design, API and third-party integrations, production troubleshooting, and application optimization. Focused on building scalable, reliable, secure, and high-performance solutions that solve real-world business problems.
           </p>
 
         </motion.div>
@@ -145,10 +142,7 @@ function About() {
             </h3>
 
             <p className="mt-6 text-gray-400 leading-8">
-              I have worked across a wide range of enterprise platforms and domains, 
-              including POS, VAS, Business Messaging (Viber), Payment and API Integrations, 
-              Online Registration Systems, CMS-based E-commerce Platforms, Custom Chatbot 
-              Integrations, and Web Scraping/Data Extraction.
+              Worked on POS, E-commerce, Payment Systems, Web Scraping, Viber Business Messaging, Online Registration, and VAS platforms.
             </p>
 
             <div className="grid grid-cols-2 gap-6 mt-10">

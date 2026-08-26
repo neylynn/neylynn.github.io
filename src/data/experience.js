@@ -5,7 +5,7 @@ export const experiences = [
     duration: "November 2025 - Present",
     location: "Yangon, Myanmar - Remote",
     description: 
-      "Develop and maintain full-stack platforms, including POS, Loyalty, Money Changer, and CMS-based e-commerce systems. Troubleshoot and resolve complex production issues, and contribute to new platform development from system architecture and API design through deployment. Improve application performance, scalability, reliability, and security across frontend, backend, and infrastructure layers. Design, deploy, and manage WordPress-based SaaS applications on VPS infrastructure, supporting the full development-to-production lifecycle.",
+      "Maintain and enhance full-stack platforms by resolving production issues, optimizing queries and performance, and developing new features for POS, Loyalty, Money Changer, and CMS-based e-commerce systems. Develop and deploy new WordPress applications end-to-end, from initial development through production.",
     technologies: [
       "Laravel",
       "React",
