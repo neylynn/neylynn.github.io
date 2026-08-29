@@ -5,7 +5,7 @@ export const experiences = [
     duration: "November 2025 - Present",
     location: "Yangon, Myanmar - Remote",
     description: 
-      "Maintain and enhance full-stack platforms by resolving production issues, optimizing queries and performance, and developing new features for POS, Loyalty, Money Changer, and CMS-based e-commerce systems. Develop and deploy new WordPress applications end-to-end, from initial development through production.",
+      "Maintain and enhance full-stack platforms by resolving production issues, optimizing queries and performance, and developing new features for POS, Loyalty, Money Changer, and CMS-based e-commerce systems. Managed existing WordPress sites, implementing new features and developing new websites.",
     technologies: [
       "Laravel",
       "React",
@@ -23,7 +23,7 @@ export const experiences = [
     duration: "February 2025 - July 2025",
     location: "Tokyo, Japan - Remote",
     description: 
-      "Tested and deployed customized chatbot solutions for e-commerce platforms, ensuring reliable integration and functionality. Developed Node.js/Express APIs to track chatbot user actions across multiple websites. Deployed and managed services on Heroku, supporting application availability and maintenance. Used Docker for containerized development and environment consistency.",
+      "Generated and integrated chatbot links into websites, tested user flows, and fixed bugs to ensure reliable functionality. Developed APIs for chatbot user tracking and scheduled tasks across multiple websites.",
     technologies: [
       "Express.js",
       "Nuxt.js",
@@ -38,7 +38,7 @@ export const experiences = [
     duration: "January 2024 - December 2024",
     location: "Bangkok, Thailand - Hybrid",
     description:
-      "Enhanced “MySkinRecipes,” a CMS-based e-commerce platform, by improving order processing workflows and implementing new APIs. Investigated and resolved complex production issues across shopping cart and checkout workflows, addressing data inconsistencies and transaction state errors. Upgraded and maintained an existing headless browser-based web-scraping system to support its latest version and ensure continued reliability.",
+      "Enhanced MySkinRecipes, a CMS-based e-commerce platform, by improving order and checkout workflows and implementing new APIs while resolving complex production issues and data inconsistencies. Upgraded a headless browser-based web scraping system, ensuring compatibility with the latest version and continued reliability.",
     technologies: [
       "PrestaShop",
       "Laravel",
@@ -52,7 +52,7 @@ export const experiences = [
     duration: "July 2022 - August 2023",
     location: "Yangon, Myanmar - On-site",
     description:
-      "Maintained existing and integrated new payment gateway solutions across major Myanmar payment providers, including KBZPay, AYA Pay, CB Pay, UAB Pay, WavePay, Citizen Pay, MPU, and international platforms such as CodaPay. Handled QR-based payment processing and dynamic payment link workflows, ensuring reliable customer transactions. Maintained and troubleshot Viber Business Messaging integrations, resolving gateway and messaging issues and managing cron jobs for automated broadcasting and monthly/yearly subscription management.",
+      "Integrated and maintained payment gateways including KBZPay, AYA Pay, CB Pay, UAB Pay, WavePay, Citizen Pay, MPU, and CodaPay, supporting QR payments and dynamic payment links. Maintained Viber Business Messaging integrations, troubleshooting gateway issues and managing automated broadcasting and subscription workflows.",
     technologies: [
       "Laravel",
       "Express.js",
@@ -67,7 +67,7 @@ export const experiences = [
     duration: "July 2021 - June 2022",
     location: "Yangon, Myanmar - Hybrid",
     description:
-      "Contributed to developing the Myanmar Accountancy Council’s online registration system, working on frontend/backend registration workflows and reporting functionality. Implemented payment gateway integrations with KBZPay and CB Pay, enabling online registration fee payments.",
+      "Contributed to the Myanmar Accountancy Council’s online registration system, developing registration workflows and reporting functionality. Integrated KBZPay and CB Pay payment gateways to enable secure online registration fee payments.",
     technologies: [
       "Laravel",
       "MySQL",
@@ -80,7 +80,7 @@ export const experiences = [
     duration: "May 2019 - June 2021",
     location: "Yangon, Myanmar - Hybrid",
     description:
-      "Contributed to developing “Nyan Gyi Shin,” a subscription-based VAS platform with loyalty content and a reward-based quiz game. Contributed to developing “Tap Tube,” a subscription-based Chinese movie streaming platform with Vimeo API integration for video delivery. Contributed to developing “Bay Din Ywar,” a VAS astrology platform delivering personalized predictions from professional Myanmar astrologers.",
+      "Contributed to Nyan Gyi Shin, Tap Tube, and Bay Din Ywar, developing subscription-based VAS platforms for loyalty content, video streaming, and personalized astrology services. Integrated features including reward-based quizzes, Vimeo API video delivery, and personalized content workflows across the platforms.",
     technologies: [
       "Laravel",
       "MySQL",

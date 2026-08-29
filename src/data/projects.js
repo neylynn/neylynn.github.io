@@ -14,7 +14,7 @@ export const projects = [
     title: "New Challenges Ads",
     image: ncImage,
     description:
-      "Contributed to the development and customization of NewChallenges Ads, a digital advertising platform serving Jobs, HR, Programmatic, and Travel sectors. Worked across multiple areas of the platform to modernize the UI, customize existing functionality, and develop new features based on business requirements, improving both usability and overall platform experience.",
+      "Modernized NewChallenges Ads, a digital advertising platform, through UI improvements, custom functionality, and new features for Jobs, HR, Programmatic, and Travel sectors.",
     technologies: [
       "WordPress",
       "MySQL",
@@ -31,7 +31,7 @@ export const projects = [
     title: "Bee Game",
     image: bgameImage,
     description:
-      "Enhanced BeeGame, a gaming marketplace for PUBG and Mobile Legends digital products. Redesigned the overall website, customized admin-side fields and functionality, and developed new features to improve usability and platform management.",
+      "Enhanced BeeGame, a PUBG and Mobile Legends marketplace for buying and selling game items and accounts, through a website redesign, custom admin features, and usability improvements.",
     technologies: [
       "WordPress",
       "MySQL",
@@ -47,7 +47,7 @@ export const projects = [
     title: "Accounting.com.mm",
     image: accImage,
     description:
-      "Independently designed and developed Accounting.com.mm from start to finish using WordPress as an informational website for an in-house accounting software solution. Created and customized the website to showcase product features, accounting capabilities, benefits, and subscription information for businesses in Myanmar.",
+      "Designed and built Accounting.com.mm in WordPress to showcase an in-house accounting software solution, its features, benefits, and subscriptions for Myanmar businesses.",
     technologies: [
       "WordPress",
       "MySQL",
@@ -63,7 +63,7 @@ export const projects = [
     title: "MySkinRecipes",
     image: msrImage,
     description:
-      "Contributed to the development of MySkinRecipes.com, a global e-commerce platform for cosmetic and skincare ingredients. Worked on core order-processing workflows, developed new APIs and integrated them with the frontend, and implemented UI improvements to improve system functionality and user experience.",
+      "Enhanced MySkinRecipes.com, a global skincare-ingredient e-commerce platform, by improving order workflows, API integrations, and the user interface.",
     technologies: [
       "PrestaShop",
       "MySQL",
@@ -79,7 +79,7 @@ export const projects = [
     title: "Myanmar Accountancy Council",
     image: macImage,
     description:
-      "Contributed to the development of a centralized platform for accounting examinations and professional registrations, including CPA and related programs. Collaborated with the development team across most modules, including applications, exam management, registrations, results, announcements, and administrative features. Integrated Myanmar payment gateways, including KBZ Pay and MPU, to support online registration payments.",
+      "Enhanced a centralized CPA and professional-registration platform across applications, exams, registrations, results, and admin features, including KBZ Pay and MPU payment integrations.",
     technologies: [
       "Laravel",
       "MySQL",
@@ -95,7 +95,7 @@ export const projects = [
     title: "7887 Healthcare",
     image: hcImage,
     description:
-      "Worked on performance optimization for Healthcare.com.mm, focusing on resolving slow website loading and media delivery issues. Implemented Amazon S3-based image storage and improved media handling to reduce loading bottlenecks, resulting in a more responsive and efficient website experience.",
+      "Optimized Healthcare.com.mm’s performance by implementing Amazon S3 image storage and improving media delivery for faster page loads.",
     technologies: [
       "Laravel",
       "MySQL",
@@ -111,7 +111,7 @@ export const projects = [
     title: "Nyan Gyi Shin",
     image: ngsImage,
     description:
-      "Contributed to the development of Nyangyi Shin, a gamified VAS platform for MPT users to participate in tip and quiz games and earn rewards. Focused primarily on admin-side development, working on reporting, reward calculation and distribution flows, data management, and other operational features required to manage the platform.",
+      "Enhanced Nyan Gyi Shin, an MPT gamified rewards platform for tips and quiz games, by developing admin tools for reporting, reward calculation and distribution, and data management.",
     technologies: [
       "Laravel",
       "MySQL",
@@ -127,7 +127,7 @@ export const projects = [
     title: "Tap Tube",
     image: ttmmImage,
     description:
-      "Contributed to the development of Tap Tube, a subscription-based video VAS platform providing Chinese movie content to MPT users. Worked on reporting modules and developed the video content workflow, integrating Vimeo with scheduled cron jobs for automated video uploading and publishing, helping streamline content management and delivery.",
+      "Enhanced Tap Tube, an MPT subscription-based Chinese movie platform, by developing reporting tools and automating Vimeo video publishing with scheduled jobs.",
     technologies: [
       "Laravel",
       "MySQL",
@@ -143,7 +143,7 @@ export const projects = [
     title: "BayDinYwar",
     image: bdyImage,
     description:
-      "Contributed to the development of Baydin Ywar, a consultation platform connecting clients with fortune tellers. Worked on mobile API integrations, end-to-end testing across client, admin, and fortune teller workflows, and developed the voice-message functionality for sending audio responses from fortune tellers to clients within consultations.",
+      "Enhanced Baydin Ywar, a fortune-telling consultation platform, through mobile API integrations, workflow testing, and voice-message functionality.",
     technologies: [
       "Laravel",
       "MySQL",
