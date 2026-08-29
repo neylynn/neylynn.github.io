@@ -80,7 +80,7 @@ export const experiences = [
     duration: "May 2019 - June 2021",
     location: "Yangon, Myanmar - Hybrid",
     description:
-      "Contributed to Nyan Gyi Shin, Tap Tube, and Bay Din Ywar, developing subscription-based VAS platforms for loyalty content, video streaming, and personalized astrology services. Integrated features including reward-based quizzes, Vimeo API video delivery, and personalized content workflows across the platforms.",
+      "Contributed to Nyan Gyi Shin, Tap Tube, and Bay Din Ywar—VAS platforms offering reward-based tips and quiz games, video streaming, and astrology consultations. Developed features for game rewards, Vimeo-based video delivery, and personalized consultation workflows.",
     technologies: [
       "Laravel",
       "MySQL",
